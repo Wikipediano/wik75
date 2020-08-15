@@ -4,3 +4,6 @@
 [submodule "wik75/Type-C.pretty"]
 	path = wik75/Type-C.pretty
 	url = https://github.com/ai03-2725/Type-C.pretty
+[submodule "wik75/random-keyboard-parts.pretty"]
+	path = wik75/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
